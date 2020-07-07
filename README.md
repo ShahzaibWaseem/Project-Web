@@ -1,4 +1,4 @@
-# Web Engineering Project
+# Edumeet
 This is a semester project for the course "Web Engineering".
 
 ## Description
